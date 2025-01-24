@@ -44499,7 +44499,16 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-top: -1px;
   }
 }
+@media (max-width: 991px) {
+  .u-footer .u-sheet-1 {
+    min-height: 150px;
+  }
 
+  .u-footer .u-text-2 {
+    font-size: 1.875rem;
+    width: 491px;
+  }
+}
 
 @media (max-width: 575px) {
   .u-footer .u-text-2 {
